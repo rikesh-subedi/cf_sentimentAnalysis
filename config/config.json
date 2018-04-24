@@ -1,0 +1,14 @@
+{
+"mongo_ip":"Host IP:27017/tcp",
+"mongo_username": "MONGODB_USERNAME",
+"mongo_dbname": "MONGODB_DBNAME",
+"mongo_password": "MONGODB_PASSWORD",
+"client_id":"CLIENT_ID",
+"client_secret":"CLIENT_SECRET",
+"oauth_url":"https://api.beta.yaas.io/hybris/oauth2/v1/token",
+"sentiment_service":"https://api.beta.yaas.io/sap/ta-sentiments/v1",
+"proxy_enabled":"false",
+"proxy":"http://proxy:8080",
+"use_yaas":"false",
+"local_setup":"false"
+}

@@ -1,0 +1,7 @@
+---
+applications:
+- name: sentimentAnalysis
+  memory: 1024M
+  buildpack: nodejs_buildpack
+  services:
+  - MyMongo
